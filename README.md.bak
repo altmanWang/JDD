@@ -111,7 +111,7 @@
 
 
 
-### src包含文件主要功能：
+###src包含文件主要功能：
 - GetTrainData.py:获得线下训练特征
 - GetTestData.py:获得线上训练特征
 - GenerateLoanSum.py:获得每个月的贷款总额，要用来获得测试集的目标。
